@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    background-image: url('https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1670&q=80');
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+}
+
+hr {
+    background-color: #ffffff;
+}
+
+.navbar {
+    padding: 10px 50px;
+}
+
+#search, #result {
+    padding: 7% 15%;
+}
+
+h3 {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+
+form {
+    text-align: center;
+}
+
+.square-border {
+    border-radius: 0px;
+}
+
+.search-input, .search-input:focus {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+}
+
+.construction {
+    text-align: center;
+}
+
+.result-container {
+    background-color: rgba(0, 0, 0, 0.705);
+    padding: 20px 40px;
+}
+
+#footer {
+    text-align: center;
+}
+
+#footer a {
+    color: #ff7675;
+}
+
+#footer a:hover {
+    color: #d63031;
+}
